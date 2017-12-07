@@ -13,7 +13,7 @@ namespace Stok
 {
     public partial class Form1 : Form
     {
-        static string conString = "server=PELIN\\SQLEXPRESS; Initial Catalog=stokKontrol; Integrated Security=SSPI";
+        static string conString = "server=dbname\\SQLEXPRESS; Initial Catalog=stokKontrol; Integrated Security=SSPI";
         SqlConnection conn = new SqlConnection(conString);
 
         private void MyTabs()
