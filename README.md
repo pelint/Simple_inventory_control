@@ -1,2 +1,2 @@
 # Simple_inventory_control
-Basit Bir Stok Kontrol Programı
+C# ile Basit Bir Stok Kontrol Programı
